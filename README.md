@@ -1,5 +1,18 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&pause=300&color=1AF700&vCenter=true&multiline=true&width=1100&height=80&lines=%3E+Initiating+system+bootup+sequence...+;%3E+Logging+in+to+%24USER...)](https://git.io/typing-svg)
+```
+Hello, world! 🌎
+I am ...
+    __  ___                        __      _____ __         __  __                               
+   /  |/  /___ ___  ______ _____  / /__   / ___// /_  ___  / /_/ /___  __   _____           __/|_
+  / /|_/ / __ `/ / / / __ `/ __ \/ //_/   \__ \/ __ \/ _ \/ __/ __/ / / /  /____/ ______   |    /
+ / /  / / /_/ / /_/ / /_/ / / / / ,<     ___/ / / / /  __/ /_/ /_/ /_/ /  /____/ /_____/  /_ __| 
+/_/  /_/\__,_/\__, /\__,_/_/ /_/_/|_|   /____/_/ /_/\___/\__/\__/\__, /      ______        |/    
+             /____/                                             /____/      /_____/              
 
+v1.0.0 (General Public Release)
+I'm so happy to see you here today! :)
+```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=27&pause=300&color=1AF700&center=true&vCenter=true&multiline=true&width=1100&height=100&lines=Know+thyself%3F+If+I+knew+myself%2C+I'd+run+away...;but+not+before+committing+my+code!)](https://git.io/typing-svg)
 <!--
 **msmayankshetty99/msmayankshetty99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
