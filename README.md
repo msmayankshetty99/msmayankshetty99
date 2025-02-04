@@ -14,9 +14,9 @@ I am ...
 v1.0.0 (General Public Release)
 I'm so happy to see you here today! :)
 
-- 🔭 Currently working on a health informatics project to determine a person's cognitive level using their social media posts
+- 🔭 Currently working on a health informatics project to determine a person's cognitive level
 - 🌱 Learning Computer Vision, Natural Language Processing, and Information Retrieval concepts
-- 👯 Looking to collaborate on projects actively involving my new learnings + SDE/Full-Stack components 
+- 👯 Looking to collaborate on projects involving my new learnings + SDE/Full-Stack components 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a Co-Founder of a SAAS startup ⭐
 ```
