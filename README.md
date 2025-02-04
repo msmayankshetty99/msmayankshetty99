@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=msmayankshetty99&style=for-the-badge&color=red)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&pause=300&color=1AF700&vCenter=true&multiline=true&width=1100&height=80&lines=%3E+Initiating+system+bootup+sequence...+;%3E+Logging+in+to+%24USER...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&pause=100&color=1AF700&vCenter=true&multiline=true&width=1100&height=80&lines=%3E+Initiating+system+bootup+sequence...+;%3E+Logging+in+to+%24USER...)](https://git.io/typing-svg)
 ```
 Hello, world! 🌎
 I am ...
@@ -13,34 +13,35 @@ I am ...
 
 v1.0.0 (General Public Release)
 I'm so happy to see you here today! :)
+
+- 🔭 Currently working on a health informatics project to determine a person's cognitive level using their social media posts
+- 🌱 Learning Computer Vision, Natural Language Processing, and Information Retrieval concepts
+- 👯 Looking to collaborate on projects actively involving my new learnings + SDE/Full-Stack components 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am a Co-Founder of a SAAS startup ⭐
 ```
-<!--
-**msmayankshetty99/msmayankshetty99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>[!IMPORTANT]\
+>Curious about the person behind the code? [View my CV](placeholder) <br>
+>[Portfolio](placeholder) website coming soon. Stay tuned! 😎 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <blockquote>
-          <p style={color:red}><i>"Know thyself? If I knew myself, I'd run away... but not before committing my code!"</i></p>
-          <p align="right"><b>- Johann Wolfgang von Goethe & Mayank Shetty</b></p>
-        </blockquote>
-      </td>
-    </tr>
-  </table>
+
+<h3 align="center">A quote I always abide by! 😆</h3>
+
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Know+thyself%3F+If+I+knew+myself%2C+I%27d+run+away...++but+not+before+committing+my+code!&author=Johann+Wolfgang+von+Goethe+x+Mayank+Shetty&width=100%25&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
 </div>
+
+<h3 align="center">POV: Me fixing and breaking my code (endless cycle) 💀</h3>
+
+![code faster](https://github.com/user-attachments/assets/b677bed0-8e56-43a9-ba58-ad9565c8b61e)
+
+<h3 align="center">Connect with me 🤗</h3>
+<p align="center">
+    <a href="https://linkedin.com/in/mayank-shetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-shetty" height="30" width="40" /></a>
+    <a href="https://discord.gg/nukemup99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nukemup99" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/msmayankshetty99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="msmayankshetty99" height="30" width="40" /></a>
+</p>
 
 ## 💻 Technical Skills
 
