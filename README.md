@@ -14,7 +14,7 @@ I am ...
 v1.0.0 (General Public Release)
 I'm so happy to see you here today! :)
 
-- 🔭 Currently working on a health informatics project to determine a person's cognitive level
+- 🔭 Currently working on a health informatics project to determine user preferences using Big Five Personality Traits
 - 🌱 Learning Computer Vision, Natural Language Processing, and Information Retrieval concepts
 - 👯 Looking to collaborate on projects involving my new learnings + SDE/Full-Stack components 
 - 😄 Pronouns: he/him
