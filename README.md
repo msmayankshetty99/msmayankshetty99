@@ -18,7 +18,7 @@ I'm so happy to see you here today! :)
 - 🌱 Learning Computer Vision, Natural Language Processing, and Information Retrieval concepts
 - 👯 Looking to collaborate on projects involving my new learnings + SDE/Full-Stack components 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a Co-Founder of a SAAS startup ⭐
+- ⚡ Fun facts: Co-Founder of a SAAS startup ⭐ | Fitness Enthusiast 💪 | Competitive Gamer 🎮 | Film & Anime Buff 🎬  
 ```
 >[!IMPORTANT]\
 >Curious about the person behind the code? [View my CV](placeholder) <br>
