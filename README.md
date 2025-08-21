@@ -14,8 +14,8 @@ I am ...
 v1.0.0 (General Public Release)
 I'm so happy to see you here today! :)
 
-- 🔭 Currently working on a health informatics project to determine user preferences using Big Five Personality Traits
-- 🌱 Learning Computer Vision, Natural Language Processing, and Information Retrieval concepts
+- 🔭 Currently building personalized AI agents through recommender systems and dialogue strategy modeling
+- 🌱 Exploring agentic frameworks, advanced NLP, and multi-modal learning to build adaptive and autonomous AI systems
 - 👯 Looking to collaborate on projects involving my new learnings + SDE/Full-Stack components 
 - 😄 Pronouns: he/him
 - ⚡ Fun facts: Co-Founder of a SAAS startup ⭐ | Fitness Enthusiast 💪 | Competitive Gamer 🎮 | Film & Anime Buff 🎬  
