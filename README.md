@@ -21,7 +21,7 @@ I'm so happy to see you here today! :)
 - ⚡ Fun facts: Co-Founder of a SAAS startup ⭐ | Fitness Enthusiast 💪 | Competitive Gamer 🎮 | Film & Anime Buff 🎬  
 ```
 >[!IMPORTANT]\
->Curious about the person behind the code? [View my CV](https://ugc.production.linktr.ee/748e7a8a-5f56-4d37-8320-25985c66488b_Mayank-Shetty---Resume.pdf) <br>
+>Curious about the person behind the code? [Here's my Resume](https://ugc.production.linktr.ee/971e4455-dcc6-4f06-bbf0-ad13213eaf3b_Mayank-Shetty---Resume--MLE-.pdf) <br>
 >[Portfolio](placeholder) website coming soon. Stay tuned! 😎 <br>
 
 <div align="center">
